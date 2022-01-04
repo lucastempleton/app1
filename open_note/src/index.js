@@ -1,12 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import { BrowserRouter, Switch } from 'react-router-dom';
 import App from './App';
+import './index.css';
+import NoAuthApp from './NoAuthApp';
 import reportWebVitals from './reportWebVitals';
+import getAuthState from 'App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+    
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
