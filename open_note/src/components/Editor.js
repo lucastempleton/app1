@@ -5,7 +5,8 @@ export default function Editor() {
 
     return (
         <div className="Editor">
-            Editor.js
+            <input type="text"/>
+            <input type="submit" />
         </div>
     )
 }
