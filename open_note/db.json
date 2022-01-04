@@ -1,26 +1,16 @@
 {
-    [
-        {
-            "userData" : {
-                "username" : "Jason"
-            },
-            "userNotes" : [
-            {"id": "1", 
-            "note": "JSON is a pedofiles"},
-            {"id": "2", 
-            "note": "JSON 2"}
-            ]
+    "currentUser": {
+        "key": "1",
+        "username": "stoner"
+    },
+    "notes": {
+        "1": {
+            "content": "this is a note",
+            "key": "1"
         },
-        {
-            "userData" : {
-                "username" : "Luke"
-            },
-            "userNotes" : [
-                {"id": "1", 
-                "note": "Luke working"},
-                {"id": "2", 
-                "note": "Luke"}
-            ]
+        "2": {
+            "content": "this is a second note",
+            "key": "2"
         }
-    ]
+    }
 }
