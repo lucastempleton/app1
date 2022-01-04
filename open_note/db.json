@@ -1,0 +1,26 @@
+{
+    [
+        {
+            "userData" : {
+                "username" : "Jason"
+            },
+            "userNotes" : [
+            {"id": "1", 
+            "note": "JSON is a pedofiles"},
+            {"id": "2", 
+            "note": "JSON 2"}
+            ]
+        },
+        {
+            "userData" : {
+                "username" : "Luke"
+            },
+            "userNotes" : [
+                {"id": "1", 
+                "note": "Luke working"},
+                {"id": "2", 
+                "note": "Luke"}
+            ]
+        }
+    ]
+}
