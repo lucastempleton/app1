@@ -3,14 +3,14 @@
         "key": "1",
         "username": "stoner"
     },
-    "notes": {
-        "1": {
+    "notes": [
+        {
             "content": "this is a note",
             "key": "1"
         },
-        "2": {
+        {
             "content": "this is a second note",
             "key": "2"
         }
-    }
+    ]
 }
